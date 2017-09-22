@@ -2,7 +2,7 @@
 import time
 
 #welcoming the user
-name = raw_input("What is your name? ")
+name = raw_input("Larkuo wilson-Tetteh ")
 
 print "Hello, " + name, "Time to play hangman!"
 
@@ -15,7 +15,7 @@ print "Start guessing..."
 time.sleep(0.5)
 
 #here we set the secret
-word = "secret"
+##word = "secret"
 
 #creates an variable with an empty value
 guesses = ''
